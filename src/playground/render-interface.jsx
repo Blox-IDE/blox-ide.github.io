@@ -139,7 +139,7 @@ const Footer = () => (
                     </a>
                 </div>
                 <div className={styles.footerSection}>
-                    <a href="https://studio.penguinmod.site/PenguinMod-Packager">
+                    <a href="https://blox-ide.github.io/Blox-Packager">
                         {/* Do not translate */}
                         {'PenguinMod Packager'}
                     </a>

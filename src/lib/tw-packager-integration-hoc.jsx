@@ -4,7 +4,7 @@ import PropTypes from 'prop-types';
 import log from './log';
 import {getIsShowingProject} from '../reducers/project-state';
 
-const PACKAGER_URL = 'https://studio.penguinmod.site/PenguinMod-Packager';
+const PACKAGER_URL = 'https://blox-ide.github.io/Blox-Packager';
 const PACKAGER_ORIGIN = "https://studio.penguinmod.site";
 
 const readBlobAsArrayBuffer = blob => new Promise((resolve, reject) => {
