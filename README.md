@@ -1,5 +1,5 @@
-scratch-gui modified for use in [TurboWarp](https://turbowarp.org/) then modified for use in [Snail IDE](https://Snail IDE.github.io/Snail IDE.github.io/) 😀
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/Snail IDE/Snail IDE.github.io/)
+scratch-gui modified for use in [TurboWarp](https://turbowarp.org/) then modified for use in [Blox](https://Blox.github.io/Blox.github.io/) 😀
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/Blox/Blox.github.io/)
 ## Setup
 
 See https://docs.turbowarp.org/development/getting-started to setup the complete TurboWarp environment.

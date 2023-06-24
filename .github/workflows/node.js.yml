@@ -36,7 +36,7 @@ jobs:
   deploy:
     environment:
       name: github-pages
-      url: 'https://Snail IDE.site/project'
+      url: 'https://Blox.site/project'
     runs-on: ubuntu-latest
     needs: build
     steps:

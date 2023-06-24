@@ -58,12 +58,12 @@ const Credits = () => (
             </h1>
         </header>
         <section>
-            <h1>Snail IDE</h1>
+            <h1>Blox</h1>
         </section>
         <section>
             <h2>Thank you</h2>
             <p>
-                Without TurboWarp and PenguinMod, Snail IDE may have never existed.
+                Without TurboWarp and PenguinMod, Blox may have never existed.
                 Thank you to everyone who worked on Scratch, TurboWarp, and PenguinMod
                 you have made many people finally be able to make whatever they can imagine.
             </p>
@@ -76,7 +76,7 @@ const Credits = () => (
             </a>
             <h2>Contributors</h2>
             <p>
-                Snail IDE is made by a small bunch of developers.
+                Blox is made by a small bunch of developers.
                 A list is below, but you can also check <a href="https://github.com/orgs/Snail-IDE/people">our GitHub</a> incase this one is out of date.
             </p>
             <UserList users={UserData.pmDevelopers} />
