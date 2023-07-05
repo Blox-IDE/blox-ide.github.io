@@ -120,8 +120,8 @@ class SoundTab extends React.Component {
             sampleCount: soundItem.sampleCount,
             name: soundItem.name
         };
-        if (soundItem.fromPenguinModLibrary) {
-            vmSound.fromPenguinModLibrary = true;
+        if (soundItem.fromBlox IDELibrary) {
+            vmSound.fromBlox IDELibrary = true;
             vmSound.libraryId = soundItem.libraryFilePage;
         };
         this.props.vm.addSound(vmSound).then(() => {

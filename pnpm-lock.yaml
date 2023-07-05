@@ -82,13 +82,13 @@ specifiers:
   redux-throttle: 0.1.1
   rimraf: 2.7.1
   scratch-audio: github:TurboWarp/scratch-audio#develop
-  scratch-blocks: github:PenguinMod/PenguinMod-Blocks#develop-builds
+  scratch-blocks: github:Blox IDE/Blox IDE-Blocks#develop-builds
   scratch-paint: github:TurboWarp/scratch-paint#develop
-  scratch-render: github:PenguinMod/PenguinMod-Render#develop
+  scratch-render: github:Blox IDE/Blox IDE-Render#develop
   scratch-render-fonts: 1.0.0-prerelease.20210401210003
   scratch-storage: github:TurboWarp/scratch-storage#develop
   scratch-svg-renderer: github:TurboWarp/scratch-svg-renderer#develop
-  scratch-vm: github:PenguinMod/PenguinMod-Vm#develop
+  scratch-vm: github:Blox IDE/Blox IDE-Vm#develop
   selenium-webdriver: 3.6.0
   startaudiocontext: 1.2.1
   style-loader: ^0.23.1
@@ -157,13 +157,13 @@ dependencies:
   redux: 3.7.2
   redux-throttle: 0.1.1
   scratch-audio: github.com/TurboWarp/scratch-audio/30e31c4c5ea4b1c85fe4d579c7fef847fe64ff7b
-  scratch-blocks: github.com/PenguinMod/PenguinMod-Blocks/5a2f22355274da8a07e3ccb556fdb4d4362eabb7
+  scratch-blocks: github.com/Blox IDE/Blox IDE-Blocks/5a2f22355274da8a07e3ccb556fdb4d4362eabb7
   scratch-paint: github.com/TurboWarp/scratch-paint/b99d6e0f23d8e7a1d68d279e6af4c1da693ede31_6k6rspeql5cezdcqbrutshycvq
-  scratch-render: github.com/PenguinMod/PenguinMod-Render/96ec5550992d75f9f688222d7b17a29f8db4698a_jgmwvpsb5yiknzfs7zehpymxpy
+  scratch-render: github.com/Blox IDE/Blox IDE-Render/96ec5550992d75f9f688222d7b17a29f8db4698a_jgmwvpsb5yiknzfs7zehpymxpy
   scratch-render-fonts: 1.0.0-prerelease.20210401210003
   scratch-storage: github.com/TurboWarp/scratch-storage/5392b136b2e6982231023bf4bf9c14c4b890dd46_webpack@4.46.0
   scratch-svg-renderer: github.com/TurboWarp/scratch-svg-renderer/3aaf933b19b55d632b6319cb05ab276528b9964d_jgmwvpsb5yiknzfs7zehpymxpy
-  scratch-vm: github.com/PenguinMod/PenguinMod-Vm/e1363170a934a5e73d9725a321799da144b2d755_cnjjgryycnetjxj63hj6pfbvmu
+  scratch-vm: github.com/Blox IDE/Blox IDE-Vm/e1363170a934a5e73d9725a321799da144b2d755_cnjjgryycnetjxj63hj6pfbvmu
   startaudiocontext: 1.2.1
   style-loader: 0.23.1
   text-encoding: 0.7.0
@@ -10940,15 +10940,15 @@ packages:
       yargs: 3.32.0
     dev: false
 
-  github.com/PenguinMod/PenguinMod-Blocks/5a2f22355274da8a07e3ccb556fdb4d4362eabb7:
-    resolution: {tarball: https://codeload.github.com/PenguinMod/PenguinMod-Blocks/tar.gz/5a2f22355274da8a07e3ccb556fdb4d4362eabb7}
+  github.com/Blox IDE/Blox IDE-Blocks/5a2f22355274da8a07e3ccb556fdb4d4362eabb7:
+    resolution: {tarball: https://codeload.github.com/Blox IDE/Blox IDE-Blocks/tar.gz/5a2f22355274da8a07e3ccb556fdb4d4362eabb7}
     name: scratch-blocks
     version: 0.1.0
     dev: false
 
-  github.com/PenguinMod/PenguinMod-Render/96ec5550992d75f9f688222d7b17a29f8db4698a_jgmwvpsb5yiknzfs7zehpymxpy:
-    resolution: {tarball: https://codeload.github.com/PenguinMod/PenguinMod-Render/tar.gz/96ec5550992d75f9f688222d7b17a29f8db4698a}
-    id: github.com/PenguinMod/PenguinMod-Render/96ec5550992d75f9f688222d7b17a29f8db4698a
+  github.com/Blox IDE/Blox IDE-Render/96ec5550992d75f9f688222d7b17a29f8db4698a_jgmwvpsb5yiknzfs7zehpymxpy:
+    resolution: {tarball: https://codeload.github.com/Blox IDE/Blox IDE-Render/tar.gz/96ec5550992d75f9f688222d7b17a29f8db4698a}
+    id: github.com/Blox IDE/Blox IDE-Render/96ec5550992d75f9f688222d7b17a29f8db4698a
     name: scratch-render
     version: 0.1.0
     peerDependencies:
@@ -10965,9 +10965,9 @@ packages:
       twgl.js: 4.4.0
     dev: false
 
-  github.com/PenguinMod/PenguinMod-Vm/e1363170a934a5e73d9725a321799da144b2d755_cnjjgryycnetjxj63hj6pfbvmu:
-    resolution: {tarball: https://codeload.github.com/PenguinMod/PenguinMod-Vm/tar.gz/e1363170a934a5e73d9725a321799da144b2d755}
-    id: github.com/PenguinMod/PenguinMod-Vm/e1363170a934a5e73d9725a321799da144b2d755
+  github.com/Blox IDE/Blox IDE-Vm/e1363170a934a5e73d9725a321799da144b2d755_cnjjgryycnetjxj63hj6pfbvmu:
+    resolution: {tarball: https://codeload.github.com/Blox IDE/Blox IDE-Vm/tar.gz/e1363170a934a5e73d9725a321799da144b2d755}
+    id: github.com/Blox IDE/Blox IDE-Vm/e1363170a934a5e73d9725a321799da144b2d755
     name: scratch-vm
     version: 0.2.0
     peerDependencies:

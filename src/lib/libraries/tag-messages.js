@@ -141,10 +141,10 @@ export default defineMessages({
         description: 'Tag for filtering a library for guns',
         id: 'gui.libraryTags.guns'
     },
-    penguinmod: {
-        defaultMessage: 'PenguinMod/Blox',
-        description: 'Tag for filtering a library by PenguinMod',
-        id: 'gui.libraryTags.penguinmod'
+    Blox IDE: {
+        defaultMessage: 'Blox IDE/Blox',
+        description: 'Tag for filtering a library by Blox IDE',
+        id: 'gui.libraryTags.Blox IDE'
     },
     scratch: {
         defaultMessage: 'Scratch',

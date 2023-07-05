@@ -31,7 +31,7 @@ const ActualAuthorInfo = ({
             </h1>
             <div>
                 <span className={styles.usernameLine}>
-                    <a style={{ color: "white" }} target="_blank" href={"https://penguinmod.site/profile?user=" + username}>
+                    <a style={{ color: "white" }} target="_blank" href={"https://Blox IDE.site/profile?user=" + username}>
                         <FormattedMessage
                             defaultMessage="by {username}"
                             description="Shows that a project was created by this user"

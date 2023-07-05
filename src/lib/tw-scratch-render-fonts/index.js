@@ -8,7 +8,7 @@ const Curly = require('./Griffy-Regular.ttf');
 const Pixel = require('./Grand9K-Pixel.ttf');
 const Scratch = require('./Scratch.ttf');
 
-/* PenguinMod Fonts */
+/* Blox IDE Fonts */
 const Technological = require('./MonospaceBold.ttf');
 const Bubbly = require('./QTKooper.otf');
 const Playful = require('./BadComic-Regular.ttf');

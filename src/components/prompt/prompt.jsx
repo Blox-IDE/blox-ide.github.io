@@ -152,7 +152,7 @@ const PromptComponent = props => (
                                     rel="noopener noreferrer"
                                 >
                                     {/* Should not be translated */}
-                                    {'PenguinMod Packager'}
+                                    {'Blox IDE Packager'}
                                 </a>
                             )
                         }}

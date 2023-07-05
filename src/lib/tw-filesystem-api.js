@@ -4,7 +4,7 @@ const showSaveFilePicker = fileName => window.showSaveFilePicker({
     suggestedName: fileName,
     types: [
         {
-            description: 'PenguinMod Project',
+            description: 'Blox IDE Project',
             accept: {
                 'application/x.scratch.sb3': '.bxp'
             }

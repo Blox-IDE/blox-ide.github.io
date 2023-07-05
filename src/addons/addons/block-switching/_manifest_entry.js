@@ -13,7 +13,7 @@ const manifest = {
     },
     {
       "name": "JeremyGamer13",
-      "link": "https://penguinmod.site/profile?user=JGamerTesting"
+      "link": "https://Blox IDE.site/profile?user=JGamerTesting"
     }
   ],
   "dynamicDisable": true,

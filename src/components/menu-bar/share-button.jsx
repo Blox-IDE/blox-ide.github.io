@@ -9,7 +9,7 @@ import styles from './share-button.css';
 function authenticate() {
     return new Promise((resolve, reject) => {
         const login = window.open(
-            `https://auth.itinerary.eu.org/auth/?redirect=${btoa(window.location.origin)}&name=PenguinMod`,
+            `https://auth.itinerary.eu.org/auth/?redirect=${btoa(window.location.origin)}&name=Blox IDE`,
             "Scratch Authentication",
             `scrollbars=yes,resizable=yes,status=no,location=yes,toolbar=no,menubar=no,width=768,height=512,left=200,top=200`
         );
@@ -98,7 +98,7 @@ const getProjectUri = () => {
 }
 
 window.addEventListener("message", async (e) => {
-    if (!e.origin.startsWith(`https://penguinmod.site`)) {
+    if (!e.origin.startsWith(`https://Blox IDE.site`)) {
         return;
     }
 
@@ -139,7 +139,7 @@ ShareButton.defaultProps = {
         const projectName = _projectName.join(" - ");
 
         const url = location.origin;
-        window.open(`https://penguinmod.site/upload?name=${encodeURIComponent(projectName)}&external=${url}`, "_blank");
+        window.open(`https://Blox IDE.site/upload?name=${encodeURIComponent(projectName)}&external=${url}`, "_blank");
         return;
     }
 };

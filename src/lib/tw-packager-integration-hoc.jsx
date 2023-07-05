@@ -5,7 +5,7 @@ import log from './log';
 import {getIsShowingProject} from '../reducers/project-state';
 
 const PACKAGER_URL = 'https://blox-ide.github.io/Blox-Packager';
-const PACKAGER_ORIGIN = "https://studio.penguinmod.site";
+const PACKAGER_ORIGIN = "https://studio.Blox IDE.site";
 
 const readBlobAsArrayBuffer = blob => new Promise((resolve, reject) => {
     const fr = new FileReader();

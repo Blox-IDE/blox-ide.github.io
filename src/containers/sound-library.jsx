@@ -23,7 +23,7 @@ const messages = defineMessages({
     }
 });
 
-const PM_LIBRARY_API = "https://penguinmod-objectlibraries.vercel.app/";
+const PM_LIBRARY_API = "https://Blox IDE-objectlibraries.vercel.app/";
 
 // @todo need to use this hack to avoid library using md5 for image
 const getSoundLibraryThumbnailData = (soundLibraryContent, isRtl) => soundLibraryContent.map(sound => {
@@ -38,7 +38,7 @@ const getSoundLibraryThumbnailData = (soundLibraryContent, isRtl) => soundLibrar
     };
 });
 
-const getPenguinModSoundAsset = (soundObject, vm) => {
+const getBlox IDESoundAsset = (soundObject, vm) => {
     return new Promise((resolve, reject) => {
         fetch(`${PM_LIBRARY_API}files/${soundObject.libraryFilePage}`)
             .then((r) => r.arrayBuffer())
@@ -160,8 +160,8 @@ class SoundLibrary extends React.PureComponent {
         this.stopPlayingSound();
 
         // pm: check if we are using the PM object library instead of the normal one
-        if (soundItem.fromPenguinModLibrary === true) {
-            this.playingSoundPromise = getPenguinModSoundAsset(soundItem, vm)
+        if (soundItem.fromBlox IDELibrary === true) {
+            this.playingSoundPromise = getBlox IDESoundAsset(soundItem, vm)
                 .then(soundAsset => {
                     if (soundAsset) {
                         const sound = {
@@ -227,8 +227,8 @@ class SoundLibrary extends React.PureComponent {
             sampleCount: soundItem.sampleCount,
             name: soundItem.name
         };
-        if (soundItem.fromPenguinModLibrary) {
-            vmSound.fromPenguinModLibrary = true;
+        if (soundItem.fromBlox IDELibrary) {
+            vmSound.fromBlox IDELibrary = true;
             vmSound.libraryId = soundItem.libraryFilePage;
         };
         this.props.vm.addSound(vmSound).then(() => {

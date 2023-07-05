@@ -20,8 +20,8 @@ import translateInsetIconURL from './translate/translate-small.png';
 import makeymakeyIconURL from './makeymakey/makeymakey.png';
 import makeymakeyInsetIconURL from './makeymakey/makeymakey-small.svg';
 
-import animatedTextIconURL from './penguinmod/extensions/text extension.png';
-import animatedTextInsetIconURL from './penguinmod/extensions/text extension small.svg';
+import animatedTextIconURL from './Blox IDE/extensions/text extension.png';
+import animatedTextInsetIconURL from './Blox IDE/extensions/text extension small.svg';
 
 import microbitIconURL from './microbit/microbit.png';
 import microbitInsetIconURL from './microbit/microbit-small.svg';
@@ -51,74 +51,74 @@ import gdxforConnectionIconURL from './gdxfor/gdxfor-illustration.svg';
 import gdxforConnectionSmallIconURL from './gdxfor/gdxfor-small.svg';
 
 import twIcon from './tw/tw.svg';
-import turbowarpIcon from './penguinmod/extensions/turbowarp_icon.svg';
-import numberEncoding from './penguinmod/extensions/numericalencoding.png';
+import turbowarpIcon from './Blox IDE/extensions/turbowarp_icon.svg';
+import numberEncoding from './Blox IDE/extensions/numericalencoding.png';
 
 import customExtensionIcon from './custom/custom.svg';
 
-import filesExtensionIcon from './penguinmod/extensions/files.png';
-import jgWebsiteRequestsExtensionIcon from './penguinmod/extensions/websiteRequests.png';
-import jgJSONExtensionIcon from './penguinmod/extensions/json.png';
-import jgRuntimeExtensionIcon from './penguinmod/extensions/runtime.png';
-import jgPrismExtensionIcon from './penguinmod/extensions/prism.png';
+import filesExtensionIcon from './Blox IDE/extensions/files.png';
+import jgWebsiteRequestsExtensionIcon from './Blox IDE/extensions/websiteRequests.png';
+import jgJSONExtensionIcon from './Blox IDE/extensions/json.png';
+import jgRuntimeExtensionIcon from './Blox IDE/extensions/runtime.png';
+import jgPrismExtensionIcon from './Blox IDE/extensions/prism.png';
 
-import jwProtoExtensionIcon from './penguinmod/extensions/proto.png';
+import jwProtoExtensionIcon from './Blox IDE/extensions/proto.png';
 
-import jwStructsExtensionIcon from './penguinmod/extensions/ooplogo.png';
+import jwStructsExtensionIcon from './Blox IDE/extensions/ooplogo.png';
 
 // cl waw
-// import cloudlinkThumb from './penguinmod/extensions/cloudlinkThumb.png';
-import cloudlinkIcon from './penguinmod/extensions/cloudlinkIcon.svg';
+// import cloudlinkThumb from './Blox IDE/extensions/cloudlinkThumb.png';
+import cloudlinkIcon from './Blox IDE/extensions/cloudlinkIcon.svg';
 
 // thx jeremey
-import canvasExtensionBanner from './penguinmod/extensions/CanvasExtensionMenu.png';
-import canvasExtensionIcon from './penguinmod/extensions/CanvasSmall.png';
+import canvasExtensionBanner from './Blox IDE/extensions/CanvasExtensionMenu.png';
+import canvasExtensionIcon from './Blox IDE/extensions/CanvasSmall.png';
 
 // griffpatch stuff that hopefully we can keep pls plsplspl !!S!
-import griffpatchPhysicsThumb from './penguinmod/extensions/griffpatch_physics.png';
-import griffpatchPhysicsIcon from './penguinmod/extensions/griffpatch_physicsIcon.svg';
+import griffpatchPhysicsThumb from './Blox IDE/extensions/griffpatch_physics.png';
+import griffpatchPhysicsIcon from './Blox IDE/extensions/griffpatch_physicsIcon.svg';
 
-import gp from './penguinmod/extensions/gamepad.svg';
-import clippingblending from './penguinmod/extensions/clippingblending.svg';
+import gp from './Blox IDE/extensions/gamepad.svg';
+import clippingblending from './Blox IDE/extensions/clippingblending.svg';
 
-import pointerlockThumb from './penguinmod/extensions/pointerlock.svg';
-import cursorThumb from './penguinmod/extensions/cursor.svg';
+import pointerlockThumb from './Blox IDE/extensions/pointerlock.svg';
+import cursorThumb from './Blox IDE/extensions/cursor.svg';
 
 // LilyMakesThings 🙏
-// import lmsMcUtilsIcon from './penguinmod/extensions/mcutils.png';
+// import lmsMcUtilsIcon from './Blox IDE/extensions/mcutils.png';
 
 // more icons so they arent just red when the extension color is not red
-import gsaTempVariablesExtensionIcon from './penguinmod/extensions/tempvariables.png';
-import gsaColorUtilExtensionIcon from './penguinmod/extensions/colorutil.png';
-import jgIframeExtensionIcon from './penguinmod/extensions/iframe.png';
-import jgExtendedAudioExtensionIcon from './penguinmod/extensions/extendedaudio.png';
-import jgScratchAuthExtensionIcon from './penguinmod/extensions/scratchauth.png';
-import jgPermissionExtensionIcon from './penguinmod/extensions/permissions.png';
-import silvxrcatOddMessagesExtensionIcon from './penguinmod/extensions/oddmessages.svg';
-import jgCloneManagerExtensionIcon from './penguinmod/extensions/clonemanager.png';
-import pmInlineBlocksExtensionIcon from './penguinmod/extensions/inlineblocks.png';
+import gsaTempVariablesExtensionIcon from './Blox IDE/extensions/tempvariables.png';
+import gsaColorUtilExtensionIcon from './Blox IDE/extensions/colorutil.png';
+import jgIframeExtensionIcon from './Blox IDE/extensions/iframe.png';
+import jgExtendedAudioExtensionIcon from './Blox IDE/extensions/extendedaudio.png';
+import jgScratchAuthExtensionIcon from './Blox IDE/extensions/scratchauth.png';
+import jgPermissionExtensionIcon from './Blox IDE/extensions/permissions.png';
+import silvxrcatOddMessagesExtensionIcon from './Blox IDE/extensions/oddmessages.svg';
+import jgCloneManagerExtensionIcon from './Blox IDE/extensions/clonemanager.png';
+import pmInlineBlocksExtensionIcon from './Blox IDE/extensions/inlineblocks.png';
 
-// import jgTweeningExtensionIcon from './penguinmod/extensions/tween.png';
-import jgsilvxrcatInterfacesExtensionIcon from './penguinmod/extensions/interfaces2.png';
+// import jgTweeningExtensionIcon from './Blox IDE/extensions/tween.png';
+import jgsilvxrcatInterfacesExtensionIcon from './Blox IDE/extensions/interfaces2.png';
 
 // 3D MAN WTF
-import jg3dExtensionIcon from './penguinmod/extensions/3d.png';
-import jg3dInsetExtensionIcon from './penguinmod/extensions/3dicon.png';
+import jg3dExtensionIcon from './Blox IDE/extensions/3d.png';
+import jg3dInsetExtensionIcon from './Blox IDE/extensions/3dicon.png';
 
 // events
-import jgStorageExtensionIcon from './penguinmod/extensions/storage.png';
-import jgTimersExtensionIcon from './penguinmod/extensions/multipletimers.png';
-import jgAdvancedTextExtensionIcon from './penguinmod/extensions/advancedtext.png';
+import jgStorageExtensionIcon from './Blox IDE/extensions/storage.png';
+import jgTimersExtensionIcon from './Blox IDE/extensions/multipletimers.png';
+import jgAdvancedTextExtensionIcon from './Blox IDE/extensions/advancedtext.png';
 
-import jgJavascriptExtensionIcon from './penguinmod/extensions/javascript.png';
+import jgJavascriptExtensionIcon from './Blox IDE/extensions/javascript.png';
 
 // category expansions
-import pmOperatorsExpansionExtensionIcon from './penguinmod/extensions/operators_expanded.png';
-import pmSensingExpansionExtensionIcon from './penguinmod/extensions/sensing_expanded.png';
+import pmOperatorsExpansionExtensionIcon from './Blox IDE/extensions/operators_expanded.png';
+import pmSensingExpansionExtensionIcon from './Blox IDE/extensions/sensing_expanded.png';
 
 // jg: default icon if you are too lazy to make one and you want me to make one instead lololololololol
 // gsa: ololololololo
-import defaultExtensionIcon from './penguinmod/extensions/placeholder.png';
+import defaultExtensionIcon from './Blox IDE/extensions/placeholder.png';
 
 const urlParams = new URLSearchParams(location.search);
 
@@ -152,7 +152,7 @@ const menuItems = [
         name: '3D',
         extensionId: 'jg3d',
         iconURL: jg3dExtensionIcon,
-        tags: ['penguinmod'],
+        tags: ['Blox IDE'],
         customInsetColor: '#B200FF',
         insetIconURL: jg3dInsetExtensionIcon,
         description: 'Use the magic of 3D to spice up your project.',
@@ -290,7 +290,7 @@ const menuItems = [
         name: 'Extended Sound',
         extensionId: 'jgExtendedAudio',
         iconURL: jgExtendedAudioExtensionIcon,
-        tags: ['penguinmod', 'categoryexpansion'],
+        tags: ['Blox IDE', 'categoryexpansion'],
         description: 'Free speed and pitch control, starting sounds at certain positions, stopping sounds, etc.',
         featured: true
     },
@@ -298,7 +298,7 @@ const menuItems = [
         name: 'Operators Expansion',
         extensionId: 'pmOperatorsExpansion',
         iconURL: pmOperatorsExpansionExtensionIcon,
-        tags: ['penguinmod', 'categoryexpansion'],
+        tags: ['Blox IDE', 'categoryexpansion'],
         description: 'More operators like nand, nor, character code to character, reading multiple lined text line by line, etc.',
         featured: true
     },
@@ -306,7 +306,7 @@ const menuItems = [
         name: 'Sensing Expansion',
         extensionId: 'pmSensingExpansion',
         iconURL: pmSensingExpansionExtensionIcon,
-        tags: ['penguinmod', 'categoryexpansion'],
+        tags: ['Blox IDE', 'categoryexpansion'],
         description: "More sensing blocks for specific use cases or interacting with the user's device.",
         featured: true
     },
@@ -314,7 +314,7 @@ const menuItems = [
         name: 'JSON',
         extensionId: 'jgJSON',
         iconURL: jgJSONExtensionIcon,
-        tags: ['penguinmod'],
+        tags: ['Blox IDE'],
         description: 'Blocks for handling JSON objects and Arrays.',
         featured: true
     },
@@ -335,7 +335,7 @@ const menuItems = [
         credits: 'easings.net & Arrow',
         description: 'Smoothly animating values using different easing functions and directions.',
         iconURL: 'https://extensions.turbowarp.org/images/JeremyGamer13/tween.svg',
-        tags: ['penguinmod'],
+        tags: ['Blox IDE'],
         featured: true
     },
     {
@@ -352,7 +352,7 @@ const menuItems = [
         name: 'Multiple Timers',
         extensionId: 'jgTimers',
         iconURL: jgTimersExtensionIcon,
-        tags: ['penguinmod'],
+        tags: ['Blox IDE'],
         description: 'Create different timers you can control seperately.',
         eventSubmittor: 'Arrow',
         featured: true
@@ -361,14 +361,14 @@ const menuItems = [
         name: 'Temporary Variables',
         extensionId: 'tempVars',
         iconURL: gsaTempVariablesExtensionIcon,
-        tags: ['penguinmod'],
+        tags: ['Blox IDE'],
         description: 'Create variables for use in one block stack. Useful to not clutter the variable list with variables you only use once.',
         featured: true
     },
     {
         name: 'Runtime Modifications',
         extensionId: 'jgRuntime',
-        tags: ['penguinmod'],
+        tags: ['Blox IDE'],
         iconURL: jgRuntimeExtensionIcon,
         description: 'Blocks for updating Scratch objects like the stage and sprites.',
         credits: 'TheShovel, showierdata9978',
@@ -378,8 +378,8 @@ const menuItems = [
         name: 'Storage',
         extensionId: 'jgStorage',
         iconURL: jgStorageExtensionIcon,
-        tags: ['penguinmod'],
-        description: 'Store data after PenguinMod has already been closed out. Basic Server Storage is also included.',
+        tags: ['Blox IDE'],
+        description: 'Store data after Blox IDE has already been closed out. Basic Server Storage is also included.',
         eventSubmittor: 'Fir & silvxrcat',
         featured: true
     },
@@ -387,7 +387,7 @@ const menuItems = [
         name: 'Website Requests',
         extensionId: 'jgWebsiteRequests',
         iconURL: jgWebsiteRequestsExtensionIcon,
-        tags: ['penguinmod'],
+        tags: ['Blox IDE'],
         description: 'Blocks to communicate with APIs and websites.',
         featured: true,
         internetConnectionRequired: true
@@ -406,7 +406,7 @@ const menuItems = [
     {
         name: 'Prism',
         extensionId: 'jgPrism',
-        tags: ['penguinmod'],
+        tags: ['Blox IDE'],
         iconURL: jgPrismExtensionIcon,
         description: 'Blocks for specific use-cases or major convenience.',
         featured: true
@@ -423,7 +423,7 @@ const menuItems = [
         name: 'HTML iframe Elements',
         extensionId: 'jgIframe',
         iconURL: jgIframeExtensionIcon,
-        tags: ['penguinmod'],
+        tags: ['Blox IDE'],
         description: 'Blocks to place and move around frames that contain HTML content or websites.',
         featured: true,
         internetConnectionRequired: true
@@ -432,7 +432,7 @@ const menuItems = [
         name: 'Color Utility Blocks',
         extensionId: 'colors',
         iconURL: gsaColorUtilExtensionIcon,
-        tags: ['penguinmod'],
+        tags: ['Blox IDE'],
         description: 'Converters for Hex, RGB, HSV and Decimal colors and other color related things.',
         featured: true
     },
@@ -446,7 +446,7 @@ const menuItems = [
         ),
         extensionId: 'jwProto',
         iconURL: jwProtoExtensionIcon,
-        tags: ['penguinmod'],
+        tags: ['Blox IDE'],
         description: (
             <FormattedMessage
                 // change this back if you update the extension to have more things
@@ -466,7 +466,7 @@ const menuItems = [
             />
         ),
         extensionId: 'jwStructs',
-        tags: ['penguinmod'],
+        tags: ['Blox IDE'],
         iconURL: jwStructsExtensionIcon,
         description: (
             <FormattedMessage
@@ -497,7 +497,7 @@ const menuItems = [
         ),
         extensionId: 'canvas',
         iconURL: canvasExtensionBanner,
-        tags: ['penguinmod'],
+        tags: ['Blox IDE'],
         insetIconURL: canvasExtensionIcon,
         customInsetColor: '#0094FF',
         description: (
@@ -589,7 +589,7 @@ const menuItems = [
         name: 'Scratch Authentication',
         extensionId: 'jgScratchAuthenticate',
         iconURL: jgScratchAuthExtensionIcon,
-        tags: ['penguinmod'],
+        tags: ['Blox IDE'],
         description: "Get a user's scratch name to prove they are a real scratch user.",
         featured: true
     },
@@ -597,7 +597,7 @@ const menuItems = [
         name: 'JavaScript',
         extensionId: 'jgJavascript',
         iconURL: jgJavascriptExtensionIcon,
-        tags: ['penguinmod', 'programminglanguage'],
+        tags: ['Blox IDE', 'programminglanguage'],
         description: 'Run your own custom code written in JavaScript!',
         featured: true
     },
@@ -806,7 +806,7 @@ if (IsLocal || IsLiveTests) {
             name: 'Legacy Files',
             extensionId: 'jgFiles',
             iconURL: defaultExtensionIcon,
-            tags: ['penguinmod'],
+            tags: ['Blox IDE'],
             description: 'Basic blocks for files. This has been replaced by the TurboWarp files extension.',
             featured: true
         },
@@ -814,7 +814,7 @@ if (IsLocal || IsLiveTests) {
             name: 'Clone Communication',
             extensionId: 'jgClones',
             iconURL: jgCloneManagerExtensionIcon,
-            tags: ['penguinmod'],
+            tags: ['Blox IDE'],
             description: 'Mainly sharing data between clones and the main sprite, but also some other small features. This has been replaced by the TurboWarp Clones+ extension.',
             featured: true
         },
@@ -822,23 +822,23 @@ if (IsLocal || IsLiveTests) {
             name: 'Unite',
             extensionId: 'jwUnite',
             iconURL: defaultExtensionIcon,
-            tags: ['penguinmod'],
+            tags: ['Blox IDE'],
             description: 'Legacy extension that was eventually merged into the default toolbox.',
             featured: true
         },
         {
-            name: 'PenguinMod Permissions',
+            name: 'Blox IDE Permissions',
             extensionId: 'JgPermissionBlocks',
             iconURL: jgPermissionExtensionIcon,
-            tags: ['penguinmod'],
-            description: 'Legacy extension, old blocks no longer serve a real purpose. Direct blocks to manage permissions that PenguinMod requires you have to do certain tasks.',
+            tags: ['Blox IDE'],
+            description: 'Legacy extension, old blocks no longer serve a real purpose. Direct blocks to manage permissions that Blox IDE requires you have to do certain tasks.',
             featured: true
         },
         {
             name: 'Jeremys Dev Tools',
             extensionId: 'jgDev',
             iconURL: defaultExtensionIcon,
-            tags: ['penguinmod'],
+            tags: ['Blox IDE'],
             description: 'Test extension to see if things are possible.\nDO NOT USE THIS IN PRODUCTION as blocks are subject to change and may corrupt your projects.',
             featured: true
         },
@@ -848,7 +848,7 @@ if (IsLocal || IsLiveTests) {
             extensionId: 'jgAdvancedText',
             eventSubmittor: 'eggo',
             iconURL: jgAdvancedTextExtensionIcon,
-            tags: ['penguinmod'],
+            tags: ['Blox IDE'],
             description: 'In development.\nThis extension is still HIGHLY in development. DO NOT USE THIS IN PRODUCTION as blocks are subject to change and may corrupt your projects.',
             featured: true
         },
@@ -857,7 +857,7 @@ if (IsLocal || IsLiveTests) {
             extensionId: 'jgInterfaces',
             iconURL: jgsilvxrcatInterfacesExtensionIcon,
             credits: 'silvxrcat',
-            tags: ['penguinmod'],
+            tags: ['Blox IDE'],
             description: 'In development.\nThis extension is still HIGHLY in development. DO NOT USE THIS IN PRODUCTION as blocks are subject to change and may corrupt your projects.',
             featured: true
         },
@@ -865,7 +865,7 @@ if (IsLocal || IsLiveTests) {
             name: 'Costume Drawing',
             extensionId: 'jgCostumeDrawing',
             iconURL: defaultExtensionIcon,
-            tags: ['penguinmod'],
+            tags: ['Blox IDE'],
             description: 'Draw on and edit your costumes (either temporarily or not) while the project is running.\nThis extension is still HIGHLY in development. DO NOT USE THIS IN PRODUCTION as blocks are subject to change and may corrupt your projects.',
             featured: true
         },
@@ -873,7 +873,7 @@ if (IsLocal || IsLiveTests) {
         //     name: "Javascript",
         //     extensionId: 'jgJavascript',
         //     iconURL: defaultExtensionIcon,
-        //     tags: ["penguinmod"],
+        //     tags: ["Blox IDE"],
         //     description: "this should have been removed from PM permanently",
         //     featured: true
         // },
@@ -881,7 +881,7 @@ if (IsLocal || IsLiveTests) {
             name: 'the doo doo extension',
             extensionId: 'jgDooDoo',
             iconURL: defaultExtensionIcon,
-            tags: ['penguinmod'],
+            tags: ['Blox IDE'],
             description: 'dr bob eae',
             featured: true
         },
@@ -889,7 +889,7 @@ if (IsLocal || IsLiveTests) {
             name: 'Inline Blocks',
             extensionId: 'pmInlineBlocks',
             iconURL: pmInlineBlocksExtensionIcon,
-            tags: ['penguinmod'],
+            tags: ['Blox IDE'],
             description: 'Create quick blocks for simple tasks. Insert them into any circle spot and have them return any value you want.',
             featured: true
         }

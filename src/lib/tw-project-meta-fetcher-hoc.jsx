@@ -6,8 +6,8 @@ import log from './log';
 import { setProjectTitle } from '../reducers/project-title';
 import { setAuthor, setDescription } from '../reducers/tw';
 
-const API_URL = 'https://projects.penguinmod.site/api/projects/getPublished?id=$id';
-const API_REMIX_URL = 'https://projects.penguinmod.site/api/pmWrapper/remixes?id=$id';
+const API_URL = 'https://projects.Blox IDE.site/api/projects/getPublished?id=$id';
+const API_REMIX_URL = 'https://projects.Blox IDE.site/api/pmWrapper/remixes?id=$id';
 
 function APIProjectToReadableProject(apiProject) {
     return {
@@ -93,7 +93,7 @@ const TWProjectMetaFetcherHOC = function (WrappedComponent) {
                         this.props.onSetProjectTitle(title);
                     }
                     const authorName = data.author.username;
-                    const authorThumbnail = `https://projects.penguinmod.site/api/pmWrapper/scratchUserImage?username=${data.author.username}`;
+                    const authorThumbnail = `https://projects.Blox IDE.site/api/pmWrapper/scratchUserImage?username=${data.author.username}`;
                     this.props.onSetAuthor(authorName, authorThumbnail);
                     const instructions = data.desc || '';
                     const credits = data.notes || '';

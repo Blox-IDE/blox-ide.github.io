@@ -11,7 +11,7 @@ import escape from 'scratch-vm/src/util/xml-escape';
 const decorate = text => {
     // https://github.com/LLK/scratch-www/blob/25232a06bcceeaddec8fcb24fb63a44d870cf1cf/src/lib/decorate-text.jsx
     
-    const isPmLink = /https:\/(\/\w+\.|\/)penguinmod\.(site\/.*|site)/sg;
+    const isPmLink = /https:\/(\/\w+\.|\/)Blox IDE\.(site\/.*|site)/sg;
     const escaped = escape(text);
     const htmlText = mdParser(escaped, {
         linksInNewTab: link => isPmLink.test(link)
@@ -32,7 +32,7 @@ const decorate = text => {
     // Make hashtags clickable
     text = reactStringReplace(text, /#([\w-]+)/g, (match, i) => (
         <a
-            href={`https://studio.penguinmod.site/#${match}`}
+            href={`https://studio.Blox IDE.site/#${match}`}
             key={match + i}
         >{`#${match}`}</a>
     ));

@@ -381,7 +381,7 @@ const StoreProjectOptions = ({ onStoreProjectOptions }) => (
             <p>
                 <FormattedMessage
                     // eslint-disable-next-line max-len
-                    defaultMessage="Stores the selected settings in the project so they will be automatically applied when PenguinMod loads this project. Warp timer will not be saved."
+                    defaultMessage="Stores the selected settings in the project so they will be automatically applied when Blox IDE loads this project. Warp timer will not be saved."
                     description="Help text for the store settings in project button"
                     id="tw.settingsModal.storeProjectOptionsHelp"
                 />

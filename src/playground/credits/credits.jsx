@@ -54,7 +54,7 @@ const Credits = () => (
     <main className={styles.main}>
         <header className={styles.headerContainer}>
             <h1 className={styles.headerText}>
-                PenguinMod Credits
+                Blox IDE Credits
             </h1>
         </header>
         <section>
@@ -63,8 +63,8 @@ const Credits = () => (
         <section>
             <h2>Thank you</h2>
             <p>
-                Without TurboWarp and PenguinMod, Blox may have never existed.
-                Thank you to everyone who worked on Scratch, TurboWarp, and PenguinMod
+                Without TurboWarp and Blox IDE, Blox may have never existed.
+                Thank you to everyone who worked on Scratch, TurboWarp, and Blox IDE
                 you have made many people finally be able to make whatever they can imagine.
             </p>
             <a href="https://scratch.mit.edu/donate">
@@ -84,7 +84,7 @@ const Credits = () => (
         </section>
         <section>
             <h2>GitHub Pages</h2>
-            <p>We currently use <a href="https://pages.github.com/">GitHub Pages</a> to host PenguinMod.</p>
+            <p>We currently use <a href="https://pages.github.com/">GitHub Pages</a> to host Blox IDE.</p>
             <a href="https://pages.github.com/">
                 <img
                     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/collections/github-pages-examples/github-pages-examples.png"
@@ -94,24 +94,24 @@ const Credits = () => (
             </a>
             <h2>Domain Provider</h2>
             <p>
-                <a href="https://penguinmod.site">penguinmod.site</a> (and any subdomains) are currently provided by NotHouse.
+                <a href="https://Blox IDE.site">Blox IDE.site</a> (and any subdomains) are currently provided by NotHouse.
                 Currently no link to any known profile of theirs is publicly known.
             </p>
             <h2>Sound Effects</h2>
             <p>
-                PenguinMod has added some more sounds to the Sound Library.
-                All PenguinMod sounds are
+                Blox IDE has added some more sounds to the Sound Library.
+                All Blox IDE sounds are
                 from <a href="https://freesound.org/">https://freesound.org/</a> and <a href="https://archive.org/">https://archive.org/</a> under
                 the Public Domain license.
             </p>
         </section>
         <section>
-            <h1>PenguinMod & TurboWarp</h1>
+            <h1>Blox IDE & TurboWarp</h1>
         </section>
         <section>
             <h2>Extensions</h2>
             <p><i>
-                If you are an extension developer who wants their extension removed from PenguinMod's extensions list,
+                If you are an extension developer who wants their extension removed from Blox IDE's extensions list,
                 contact us as soon as you can. We'll get it removed as soon as we are able to.
             </i></p>
             <p>
@@ -127,7 +127,7 @@ const Credits = () => (
             <h2>Addons</h2>
             <p>
                 Addons are mostly taken from <a href="https://scratchaddons.com/">Scratch Addons</a>,
-                but we hope to have some PenguinMod addons in the future.
+                but we hope to have some Blox IDE addons in the future.
                 Here are the developers that made the current addons available.
             </p>
             <UserList users={UserData.addonDevelopers} />
@@ -184,8 +184,8 @@ const Credits = () => (
                 far more than we could hope to list here.
             </p>
             <p>
-                Unfortunately due to PenguinMod's small size, we have decided to mainly focus on English.
-                You can still use PenguinMod with the other languages, but they will not be updated at this time.
+                Unfortunately due to Blox IDE's small size, we have decided to mainly focus on English.
+                You can still use Blox IDE with the other languages, but they will not be updated at this time.
             </p>
         </section>
         <section>

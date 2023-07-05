@@ -1,6 +1,6 @@
 import messages from './tag-messages.js';
 export default [
-    { tag: 'penguinmod', intlLabel: messages.penguinmod },
+    { tag: 'Blox IDE', intlLabel: messages.Blox IDE },
     { tag: 'turbowarp', intlLabel: messages.turbowarp },
     { tag: 'scratch', intlLabel: messages.scratch },
     { tag: 'categoryexpansion', intlLabel: messages.categoryexpansion },
