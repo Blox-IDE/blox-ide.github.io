@@ -79,7 +79,7 @@ const Credits = () => (
                 Blox is made by a small bunch of developers.
                 A list is below, but you can also check <a href="https://github.com/orgs/Snail-IDE/people">our GitHub</a> incase this one is out of date.
             </p>
-            <UserList users={UserData.pmDevelopers} />
+            <UserList users={UserData.bxDevelopers} />
             <p><i>The list order is randomized on each refresh.</i></p>
         </section>
         <section>

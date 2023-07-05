@@ -65,7 +65,7 @@ const ShareButton = ({
         <FormattedMessage
             defaultMessage="Upload"
             description="Label for project share button"
-            id="gui.menuBar.pmshare"
+            id="gui.menuBar.bxshare"
         />
     </Button>
 );
